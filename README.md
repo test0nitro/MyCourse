@@ -49,6 +49,12 @@ Essas tecnologias trabalham em conjunto para garantir **performance**, **manuten
 
 ---
 
+## 📸 Demonstração  
+
+![Demo da aplicação](demo01.gif)
+
+---
+
 - **Header fixo** com menu de navegação e logotipo.  
 - **Seção “Hero”** com título principal e botão de ação.  
 - **Cards de cursos** exibindo nome, descrição e detalhes do conteúdo.  
