@@ -5,14 +5,14 @@
 **Nome do projeto:** MyCourse  
 
 **Contexto / evento de desenvolvimento:**  
-MyCourse foi desenvolvido como uma **plataforma web educacional**, projetada para exibir informações de cursos e módulos de aprendizado de maneira clara e interativa.  
+MyCourse foi desenvolvido como uma **introdução de um cursp**, projetada para exibir informações de cursos e módulos de aprendizado de maneira clara e interativa.  
 
 **Objetivo principal / desafio:**  
 O principal objetivo do projeto é oferecer uma **interface moderna e responsiva** para apresentar cursos online, permitindo que usuários explorem conteúdos de maneira intuitiva e agradável.  
 
 **Detalhes / motivação:**  
 - Criado como **projeto de portfólio**, com foco em demonstrar habilidades de front-end.  
-- Exemplo funcional de **plataforma educacional web**.  
+- inspirado para uma amiga
 - Utiliza ferramentas modernas como **React, Vite e TailwindCSS** para otimizar a performance e o design.  
 
 ---
